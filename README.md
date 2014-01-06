@@ -109,6 +109,7 @@ To update the `samples.json` after adding new files to [`samples/`](https://gith
 
     bundle exec rake samples
 
+
 ### Testing
 
 Sometimes getting the tests running can be too much work, especially if you don't have much Ruby experience. It's okay: be lazy and let our build bot [Travis](http://travis-ci.org/#!/github/linguist) run the tests for you. Just open a pull request and the bot will start cranking away.
